@@ -1,0 +1,12 @@
+D:\Iskola\VargaGábor\PowerShell\PowerShell\bin\Debug\net6.0\PowerShell.deps.json
+D:\Iskola\VargaGábor\PowerShell\PowerShell\bin\Debug\net6.0\PowerShell.dll
+D:\Iskola\VargaGábor\PowerShell\PowerShell\bin\Debug\net6.0\PowerShell.pdb
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.csproj.AssemblyReference.cache
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.GeneratedMSBuildEditorConfig.editorconfig
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.AssemblyInfoInputs.cache
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.AssemblyInfo.cs
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.csproj.CoreCompileInputs.cache
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.dll
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\refint\PowerShell.dll
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\PowerShell.pdb
+D:\Iskola\VargaGábor\PowerShell\PowerShell\obj\Debug\net6.0\ref\PowerShell.dll

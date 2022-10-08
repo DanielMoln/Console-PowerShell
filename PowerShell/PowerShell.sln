@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShell", "PowerShell.csproj", "{B14DC68A-E2CE-4043-BE68-F1404EB858C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tester", "..\Tester\Tester.csproj", "{724D0024-A85E-49BC-934F-96E03D3CDB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14DC68A-E2CE-4043-BE68-F1404EB858C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14DC68A-E2CE-4043-BE68-F1404EB858C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14DC68A-E2CE-4043-BE68-F1404EB858C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14DC68A-E2CE-4043-BE68-F1404EB858C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{724D0024-A85E-49BC-934F-96E03D3CDB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724D0024-A85E-49BC-934F-96E03D3CDB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724D0024-A85E-49BC-934F-96E03D3CDB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724D0024-A85E-49BC-934F-96E03D3CDB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EACAFB91-F797-4798-BF2E-17A9FC4CB84E}
+	EndGlobalSection
+EndGlobal

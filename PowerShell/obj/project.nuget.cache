@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2RQzf3edZO/YXld9yrLfQWk8cliQ9PRix7pc1C6V7Wqa9c6LD4hVnFdzbw2sJljAQoGFFIoMjR6RlmrXygqUWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Iskola\\VargaGábor\\PowerShell\\PowerShell\\PowerShell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DanielMolnar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
